@@ -6,3 +6,4 @@ change after clone
 2 change after pull
 3 change after pull
 1 change after 2nd branch
+2 change after 2nd branch
